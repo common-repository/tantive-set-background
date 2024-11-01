@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tantive-set-background\n"
+"POT-Creation-Date: 2023-12-27 15:20+0900\n"
+"PO-Revision-Date: 2023-12-27 16:40+0900\n"
+"Last-Translator: \n"
+"Language-Team: Junichi Takanashi\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;esc_attr__;esc_html__;__e;esc_attr_e;esc_html_e;"
+"_x:1,2c;_ex:1:2c;esc_attr:1,2c;esc_html:1:2c;_n:1,2;_nx:1,2,4c;"
+"_n_noop:1,2;_nx_noop:1,2,3c\n"
+"X-Poedit-SearchPath-0: build\n"
+"X-Poedit-SearchPath-1: src\n"
+
+#: src/edit.js:36
+msgid "Tantive Set Background – hello from the editor!"
+msgstr "hello"
+
+#: src/index.js:102 src/index.js:107
+msgid "Cancel changing"
+msgstr "変更をキャンセル"
+
+#: src/index.js:128 src/index.js:132
+msgid "Change"
+msgstr "変更"
+
+#: src/index.js:137 src/index.js:141
+msgid "Delete"
+msgstr "削除"
+
+#: src/index.js:157 src/index.js:186 src/index.js:191
+msgid "repeat"
+msgstr "repeat"
+
+#: src/index.js:166 src/index.js:171
+msgid "x-Direction"
+msgstr "x軸方向"
+
+#: src/index.js:176 src/index.js:181
+msgid "y-Direction"
+msgstr "y軸方向"
+
+#: src/index.js:196 src/index.js:201
+msgid "no repeat"
+msgstr "no repeat"
+
+#: src/index.js:206
+msgid "reset repeat"
+msgstr "リセット"
+
+#: src/index.js:210 src/index.js:259 src/index.js:263 src/index.js:312
+#: src/index.js:316 src/index.js:365 src/index.js:369 src/index.js:418
+#: src/index.js:422
+msgid "reset"
+msgstr "リセット"
+
+#: src/index.js:220
+msgid "attachment"
+msgstr "attachment"
+
+#: src/index.js:229 src/index.js:234
+msgid "scroll"
+msgstr "scroll"
+
+#: src/index.js:239 src/index.js:244
+msgid "fixed"
+msgstr "fixed"
+
+#: src/index.js:249 src/index.js:254
+msgid "local"
+msgstr "local"
+
+#: src/index.js:273
+msgid "position-x"
+msgstr "position-x"
+
+#: src/index.js:282
+msgid "positionXCenter"
+msgstr "positionXCenter"
+
+#: src/index.js:287 src/index.js:340
+msgid "center"
+msgstr "center"
+
+#: src/index.js:292
+msgid "positionXLeft"
+msgstr "positionXLeft"
+
+#: src/index.js:297
+msgid "left"
+msgstr "left"
+
+#: src/index.js:302
+msgid "positionXRight"
+msgstr "positionXRight"
+
+#: src/index.js:307
+msgid "right"
+msgstr "right"
+
+#: src/index.js:326
+msgid "position-y"
+msgstr "position-y"
+
+#: src/index.js:335
+msgid "positionYCenter"
+msgstr "positionYCenter"
+
+#: src/index.js:345
+msgid "positionYTop"
+msgstr "positionYTop"
+
+#: src/index.js:350
+msgid "top"
+msgstr "top"
+
+#: src/index.js:355
+msgid "positionYbottom"
+msgstr "positionYBottom"
+
+#: src/index.js:360
+msgid "bottom"
+msgstr "bottom"
+
+#: src/index.js:379
+msgid "backgroundSize"
+msgstr "backgroundSize"
+
+#: src/index.js:388 src/index.js:393
+msgid "auto"
+msgstr "auto"
+
+#: src/index.js:398 src/index.js:403
+msgid "cover"
+msgstr "cover"
+
+#: src/index.js:408 src/index.js:413
+msgid "contain"
+msgstr "contain"
+
+#: src/index.js:453
+msgid "Setting background"
+msgstr "背景設定"
